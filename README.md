@@ -2,7 +2,7 @@
 - Baseball Analytics // Cyber Security // FinTech 
 - Let's Drive Humanity Forward through Code
 - Always Learning
-- Python, C#, SQL
+- C#, Java, Azure, SQL
 
 <!---
 andrew-kotan/andrew-kotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
